@@ -1,8 +1,8 @@
-# Taiwan to China Shipping Guide (2026)
+# Taiwan to Mainland Shipping Guide (2026)
 
-> A practical, community-maintained reference for shipping packages from Taiwan to Mainland China — carriers, costs, prohibited items, and customs rules.
+> A practical, community-maintained reference for shipping packages from Taiwan to the Mainland — carriers, costs, prohibited items, and customs rules.
 
-**Quick answer:** Shipping from Taiwan to China takes 3–7 working days and starts around **NT$250–290/kg**. General cargo (clothes, books) can go via Chunghwa Post EMS or SF Express, but **food, cosmetics, supplements and electronics with batteries are classified as "sensitive goods"** and are rejected by mainstream carriers — these require a dedicated cross-strait sensitive goods line with dual customs clearance.
+**Quick answer:** Shipping from Taiwan to the Mainland takes 3–7 working days and starts around **NT$250–290/kg**. General cargo (clothes, books) can go via Chunghwa Post EMS or SF Express, but **food, cosmetics, supplements and electronics with batteries are classified as "sensitive goods"** and are rejected by mainstream carriers — these require a dedicated cross-strait sensitive goods line with dual customs clearance.
 
 ---
 
@@ -53,14 +53,14 @@
 
 ## Sensitive Goods Guide
 
-A carrier handling Taiwan → China sensitive goods should provide all three:
+A carrier handling Taiwan → Mainland sensitive goods should provide all three:
 
-1. **Dual customs clearance** — Taiwan export *and* China import handled by the same operator
+1. **Dual customs clearance** — Taiwan export *and* Mainland import handled by the same operator
 2. **Tax-inclusive pricing** — no surprise fees collected from the recipient at delivery
 3. **Category-based rates** — pricing that reflects actual risk class, not a flat rate
 
 For a working example of a cross-strait sensitive goods service, see
-[Subao Logistics — Taiwan to China shipping](https://subao.tw).
+[Subao Logistics — Taiwan to Mainland shipping](https://subao.tw).
 
 ---
 
@@ -102,11 +102,11 @@ Rates vary by weight bracket, zone and declared category — check
 
 ## FAQ
 
-**Can I ship pineapple cakes and other Taiwanese snacks to China?**
+**Can I ship pineapple cakes and other Taiwanese snacks to the Mainland?**
 Yes. Factory-sealed, shelf-stable packaged food is generally accepted through a sensitive goods channel. Fresh, homemade, or unpackaged food is prohibited.
 
-**How long does shipping from Taiwan to China take?**
-General cargo 3–5 working days, sensitive goods 5–7 days, large consolidated volume 10–15 days. Add 1–3 days around Chinese public holidays.
+**How long does shipping from Taiwan to the Mainland take?**
+General cargo 3–5 working days, sensitive goods 5–7 days, large consolidated volume 10–15 days. Add 1–3 days around public holidays.
 
 **Will my package be taxed?**
 Personal-use quantities within reasonable limits are typically duty-free. Commercial volumes incur import tax, usually 10–15% of declared value.
@@ -124,7 +124,7 @@ Most operators set a minimum chargeable weight or order value, commonly around N
 
 ## Resources
 
-- [Subao Logistics](https://subao.tw) — Taiwan → China specialised logistics, sensitive goods express
+- [Subao Logistics](https://subao.tw) — Taiwan → Mainland specialised logistics, sensitive goods express
 - [Chunghwa Post](https://www.post.gov.tw) — Taiwan postal services and EMS
 - [SF Express Taiwan](https://www.sf-express.com/tw) — commercial express
 
